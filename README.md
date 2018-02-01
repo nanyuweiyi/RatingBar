@@ -17,16 +17,3 @@ Current we already have three RatingBars :
 Icon made by [Freepik](http://www.freepik.com/) from www.flaticon.com 
 
 
-```gradle
-allprojects {
-    repositories {
-        ...
-        maven { url 'https://jitpack.io' }
-    }
-}
-
-dependencies {
-    compile 'com.github.ome450901:SimpleRatingBar:1.3.6'
-}
-```
-
